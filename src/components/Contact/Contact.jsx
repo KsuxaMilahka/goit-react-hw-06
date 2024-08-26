@@ -1,5 +1,4 @@
 import styles from './Contact.module.css';
-
 import { ImUsers } from 'react-icons/im';
 import { FaPhoneAlt } from 'react-icons/fa';
 
